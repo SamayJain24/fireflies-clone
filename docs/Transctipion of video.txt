@@ -1,0 +1,3833 @@
+welcome to fireflies.ai we're excited to have you on the platform and I'm going to take a quick minute to go over how you can get started and how you can get the most out of fireflies once you've signed up and logged in you'll be on this welcome screen right here here you'll be able to see your upcoming meetings and which meetings fireflies will be able to join you can also toggle on and off if you don't want fireflies to join any of these meetings fireflies is able to join meetings across Zoom Google meet Microsoft teams WebEx and several other major video conferences platforms about 5 to 10 minutes after a meeting fireflies will transcribe summarize analyze and send you the meeting recap you can also look at the top right here and these will be your meeting settings so if I only want fireflies to join meetings that I'm the owner of I can click on that option right here if I wanted to only join when I explicitly invite Fred fireflies.ai I would select this option fireflies will join as the participant so let's actually look at my calendar I have an upcoming meeting as you can see here I have my meeting and there's a video conferencing link let's go ahead and join the call and let fireflies into the meeting as you can see here fireflies AI notetaker is requesting to join the meeting it's the AI notetaker bot typically the name will have fireflies Ai notaker and then the name of the person it's joining on behalf of I'm going to let it into the meeting and when I look at the participants list it's just another person on the call it's muted if I don't want fireflies to continue recording the meeting I can simply remove it it from the call after the meeting I should get an email recap let's go take a look at that so let's click in and what you'll see here is the transcript on the right hand side and you will have the ability to click anywhere on the transcript and listen to the conversation uh as well as search through this transcript so for example we were talking about updates in December so I'm going to quickly search there and I can see that all the parts where December was discussed it's difficult to say and then I can click on it I can listen to exactly the parts that were talked about also we are able to do speaker detection for the major platforms like Google meet teams and zoom so it's going to separate out the transcript by speaker in the middle I have both the video recording of the meeting that actually happened this is really valuable if I'm sharing my screen or presenting slides so the video is captured I also have an AI generated summary right in the middle right here when we scroll down if I want to provide feedback or coaching or leave any comments at specific parts of the call I simply just go to that part of the call and then leave a comment so right here if I want to leave a comment at 19 minutes into the call I'm going to leave a comment and that part will be timestamped there will be a little marker that's placed on the timeline and in the comments section here there will be a timestamp so when I share this recap with my teammates they can jump specifically to the parts that I've marked up I can also react to different parts of the call with Emojis like thumbs up thumbs down or I can bookmark that part of the call one of my favorite features is sound bite so if there was some valuable information that was set on the call I can highlight it and create a sound bite of that 10 20 30 second clip then I can copy that link and then share that sound by with my teammates they won't have to go through the entire call so this is a sound bite right here and this is like the 30 second clip that I can share with my teammates and then they can get a gist of what was said on the call coming back to the notepad I want to talk about the left hand panel here these are the smart search filters so I can quickly go through that entire transcript and find out what questions were asked on the call what were the dates and times that were discussed what important metrics were brought up I can even filter to potential action items that fireflies detected on the call we have a sentiment analysis section here so I can filter to parts of the call where there was positive sentiment or parts of the call where there was negative sentiment the speaker section here tells me who spoke on the call and for how long I get quick analytics on talk time and I also get how fast they were talking if for whatever reason I wanted to only look at a particular person's talk track I can click on that and the entire transcript will be filtered to that talk track I can even build my own custom topic trackers so these are keywords that I want to track on meetings for example I've set up keywords for marketing and I can click that and I can see all the parts where we talked about blogs SEO and other relevant things that are pertinent to marketing if I want to create my own uh topics I can just go click add new topics I can also share the recap with particular people by using the share button and similar to Google Docs I can configure the Privacy options it's also right here so I can choose who gets to see the recap if it should only be me or everyone or only teammates and participants we give you a lot of privacy controls over who can see the transcript I can also download both the audio the video as well as a transcript in multiple formats so making it easily accessible and sharable finally on the notepad I want to share one really exciting thing that we're working on we are coming up with a whole host of new features called AI extensions they're going to be powered by gpt3 and the same sort of technology that runs chat GPT so one of our favorite extensions we're rolling out is called ask Fred and this is extremely powerful because I can simply ask Fred a question about the meeting it'll analyze the meeting and then come back and Converse with me and share answers so I can ask questions like how many seats did the customer want to buy what were some of the blockers last quarter
+
+
+
+How to set up Fireflies Talk.
+
+
+Fireflies takes your meeting notes. Now,
+
+
+it types for you, too. This is Fireflies
+
+
+Talk. Hold a key, say what you want to
+
+
+write, and clean text appears wherever
+
+
+your cursor is.
+
+
+Let's walk through it.
+
+
+Setup takes a minute. Pick the languages
+
+
+you dictate in. Talk supports more than
+
+
+90.
+
+
+Choose your microphone. Green means
+
+
+you're set. Talk runs on the FN key on
+
+
+Mac, control plus win on Windows. Double
+
+
+tap your key anytime to go hands-free.
+
+
+Click where you'd normally type, hold
+
+
+the key, and talk like a person.
+
+
+>> Give me a daily briefing. Um, first,
+
+
+check today's important tech news. Uh,
+
+
+second, tell me about major AI product
+
+
+updates. And last, summarize key action
+
+
+items from my last meeting.
+
+
+>> The ums and false starts never make it
+
+
+in. Punctuation lands on its own, and
+
+
+you hit send.
+
+
+Talk pays attention to where you're
+
+
+typing. Dictate an email, and it comes
+
+
+out shaped like an email. Greeting,
+
+
+paragraphs, sign-off. A Slack message
+
+
+comes out like a Slack message. You
+
+
+never say comma. You never say new line.
+
+
+This is the Talk pill. It shows when
+
+
+Talk is listening. Click it to go
+
+
+hands-free, press escape to cancel, and
+
+
+drag it anywhere on your screen. Prefer
+
+
+it subtle? There's a minimal version, or
+
+
+hide it completely.
+
+
+Everything you dictate lives in your
+
+
+Talk home. What you said and where it
+
+
+went. Search any past dictation, filter
+
+
+by app, [music]
+
+
+and watch your running count of words
+
+
+spoken instead of typed. And if Talk
+
+
+ever can't find a text field, your words
+
+
+go straight to your clipboard, ready to
+
+
+paste.
+
+
+In Slack, just say a teammate's name.
+
+
+Talk turns it into a real @mention.
+
+
+Everything lives in settings under
+
+
+dictation. Your shortcut, your pill,
+
+
+your mic, your languages. [music]
+
+
+Talk can pause your music while you
+
+
+dictate, and there's an optional setting
+
+
+that uses screen context to get names
+
+
+and terms spelled right.
+
+
+That's Fireflies Talk. Unlimited
+
+
+dictation on every Fireflies plan,
+
+
+including free, in more than 90
+
+
+languages. Stop typing at work.
+In this video, we'll show you how
+
+
+AskFred lets you search your knowledge
+
+
+to find answers across all your meetings
+
+
+>> [music]
+
+
+>> and connected tools and turn insights
+
+
+into action. Start inside any meeting.
+
+
+Open a meeting from your meetings tab
+
+
+and on the right side of your notepad,
+
+
+you'll see [music] AskFred. From here,
+
+
+you can ask questions like, "What were
+
+
+the key objections raised?"
+
+
+Or "What decisions were made?" AskFred
+
+
+pulls [music] answers directly from the
+
+
+transcript.
+
+
+But it doesn't stop at answering
+
+
+questions. You can also turn meetings
+
+
+into action by asking it to draft a
+
+
+follow-up email based on the
+
+
+conversation.
+
+
+Or write a LinkedIn post summarizing key
+
+
+takeaways.
+
+
+Perfect [music] when a meeting ends and
+
+
+you need to move straight into
+
+
+execution.
+
+
+But what if you need to find patterns or
+
+
+insights across dozens of conversations?
+
+
+From your dashboard, click
+
+
+>> [music]
+
+
+>> "Ask anything from your meetings." This
+
+
+opens Global AskFred, your knowledge
+
+
+search across every conversation in your
+
+
+workspace. Here's where it gets really
+
+
+powerful. Ask [music] questions like,
+
+
+"What topics came up most in customer
+
+
+calls this month?" Or "What objections
+
+
+[music]
+
+
+are we hearing across sales calls?"
+
+
+[music]
+
+
+AskFred searches across all your
+
+
+meetings and surfaces the answers with
+
+
+references to specific [music]
+
+
+conversations. You can also create
+
+
+content across meetings. Generate a
+
+
+summary report for stakeholders based on
+
+
+last week's meetings or build a FAQ
+
+
+document from all the sales demo
+
+
+meetings. Draft a slide outline
+
+
+highlighting demo trends or summarize
+
+
+feedback from onboarding calls.
+
+
+>> [music]
+
+
+>> AskFred pulls insights from across all
+
+
+relevant conversations and creates
+
+
+ready-to-use content. [music] Use
+
+
+filters to narrow your search by time
+
+
+range, specific meetings, or by host and
+
+
+participants. Instead of replaying hours
+
+
+of recordings, you get answers and
+
+
+ready-to-use content in seconds.
+
+
+AskFred's [music] knowledge search
+
+
+extends beyond just meetings. You can
+
+
+connect other sources like web search,
+
+
+Gmail, [music]
+
+
+and Slack. This turns AskFred into a
+
+
+unified knowledge search hub where you
+
+
+can ask questions that span meetings,
+
+
+emails, [music] and team conversations
+
+
+all in one place. That's AskFred, your
+
+
+AI-powered knowledge search for [music]
+
+
+turning every conversation into insights
+
+
+and actions.
+If you're an admin on Fireflies, the
+
+
+team tab in settings is where you
+
+
+control how Fireflies works across your
+
+
+entire workspace. In this video, we'll
+
+
+walk through everything available to you
+
+
+as an admin. Go to settings and click
+
+
+the team tab at the top. The first
+
+
+section is recording and privacy. These
+
+
+settings mirror the personal settings,
+
+
+but here you're applying them across
+
+
+your whole workspace. Your team members
+
+
+can always change these default settings
+
+
+by going to the personal settings tab.
+
+
+Under recording, you can control auto
+
+
+record behavior for your team. You can
+
+
+choose from the multiple recording
+
+
+options from the drop-down or leave it
+
+
+for teammates to choose themselves. If
+
+
+you're on business or enterprise tier,
+
+
+you can also control the recording
+
+
+format, whether audio, transcript, and
+
+
+summary are all saved and whether
+
+
+meeting video is recorded. There's also
+
+
+an auto delete setting here, which lets
+
+
+you set a data retention period so
+
+
+meetings are automatically deleted after
+
+
+a certain time. Available on business
+
+
+and enterprise plans, and again, you can
+
+
+set this as a team default or leave it
+
+
+to teammates. Scrolling down, you'll see
+
+
+privacy and access settings. These
+
+
+control who can view meeting notes
+
+
+within your workspace, and you can
+
+
+either allow your teammates to choose
+
+
+these or set a default for the whole
+
+
+team. Next, under email notification,
+
+
+you can set who receives the meeting
+
+
+recap email after each call. Everyone on
+
+
+the invite, only specific participants,
+
+
+or just the host. You can also set
+
+
+record and restriction rules here, which
+
+
+tells Fireflies to record or skip
+
+
+meetings based on keywords, email
+
+
+addresses, or domains in the calendar
+
+
+title.
+
+
+All of these follow the same pattern.
+
+
+Set a default for the whole team or
+
+
+allow teammates to choose for
+
+
+themselves. By default, all these
+
+
+settings are set to allow teammates to
+
+
+choose. Next is compliance notification.
+
+
+This is where you manage how
+
+
+participants are informed that a meeting
+
+
+is being recorded. You have two options
+
+
+here, email notification, which sends
+
+
+participants a heads-up an hour before
+
+
+the meeting, and meeting chat
+
+
+notification, which posts a message in
+
+
+the call itself when recording starts.
+
+
+You can enable for all teammates,
+
+
+disable for all teammates, or allow
+
+
+teammates to choose. You can also edit
+
+
+the email notification message to
+
+
+customize what participants see. Just
+
+
+click edit to update the text. Under AI
+
+
+settings, you have two controls for AI
+
+
+skills across your workspace. First, who
+
+
+can create AI skills, either all
+
+
+teammates or admins only. Second, who
+
+
+can access AI skills. You can restrict
+
+
+this to specific groups or open it up
+
+
+more broadly. The live meeting section
+
+
+is the same as your personal settings,
+
+
+applied at the team level. You can
+
+
+control whether live meeting notes are
+
+
+shared with participants through the
+
+
+meeting chat or via email, and whether
+
+
+key takeaways are sent to the chat 5
+
+
+minutes before the call ends. There's
+
+
+also a talk to Fireflies section where
+
+
+you can configure how Fireflies interact
+
+
+during a live meeting. Options to chat
+
+
+with it, trigger it by voice, and have
+
+
+it respond back in audio. For each
+
+
+setting, you can enable for all
+
+
+teammates, disable for all teammates, or
+
+
+allow teammates to choose. Under
+
+
+integration, you control whether
+
+
+teammates can connect integrations
+
+
+themselves or whether that's restricted
+
+
+to admins. You can configure team-wide
+
+
+integrations here or go to the
+
+
+integrations tab, click the three-dot
+
+
+menu on any integration, and manage it
+
+
+from the team options there. Next is
+
+
+rules, available on the enterprise plan.
+
+
+This is a rule engine that lets you
+
+
+create rule and automate actions based
+
+
+on meeting conditions, like
+
+
+automatically recording certain
+
+
+meetings, routing notes to specific
+
+
+channels, auto sharing with people,
+
+
+groups, or applying specific privacy
+
+
+settings. We'll cover this in detail in
+
+
+a separate video. The last section is
+
+
+members and groups. Under the teammates
+
+
+tab, you can see everyone in your
+
+
+workspace, search for members, invite
+
+
+new people, update roles between admin
+
+
+and non-admin, and remove members if
+
+
+needed. Under user groups, you can
+
+
+create groups for different teams,
+
+
+sales, product, engineering, whatever
+
+
+makes sense for your organization. Give
+
+
+the group a name, a handle, add members
+
+
+by name or email, and you're done. What
+
+
+makes groups powerful is that each group
+
+
+has its own settings. Auto record, email
+
+
+recap, meeting privacy, AI skills
+
+
+access, and data retention. By default,
+
+
+these all inherit from your team
+
+
+settings, but you can override any of
+
+
+them for a specific group when a team
+
+
+has different needs. Note that user
+
+
+groups are available only on the
+
+
+enterprise plan, and under advanced
+
+
+settings, you can control whether
+
+
+non-admin teammates can invite new
+
+
+members, and whether users from your
+
+
+company domain are added to the
+
+
+workspace automatically. Finally, at the
+
+
+bottom of the team setting sidebar,
+
+
+you'll also find AI credits, billing,
+
+
+and account. These are where you can
+
+
+track your team's AI credit usage,
+
+
+manage your billing details, and update
+
+
+your account information.
+
+
+That's the team settings in Fireflies.
+
+
+Set your defaults once, and your whole
+
+
+workspace runs the way you want it to.
+Welcome to Fireflies AI. We built an AI
+assistant called Fred [music] to
+automate busy work starting with meeting
+notes and extending to email, Slack, and
+the tools you use every single day.
+>> [music]
+>> So, I want to walk you through the core
+features and help you get comfortable
+with how Fireflies works.
+Fireflies captures meetings across all
+your major video conferencing platforms.
+We'll start with the meeting bot. You
+can see upcoming meetings here, and
+Fireflies can automatically join based
+on your settings. If you don't want it
+to join every meeting, it's easy to
+change.
+Here's a Google Meet. You'll see the
+Fireflies note-taker waiting to join.
+Once I let Fred in, he joins as a
+participant labeled with your name. As
+the conversation happens, Fred takes
+notes automatically.
+During the meeting, you get real-time
+notes and live transcription. You can
+ask Fred questions while the meeting is
+happening or generate a quick summary of
+what's been discussed. Everything
+updates live, which is helpful if you
+join late. If you're a salesperson, you
+can even use our sales assist mode to
+get real-time suggestions while the
+prospect is asking and when your
+prospect is asking questions.
+Fireflies supports over 100 languages.
+It can accurately transcribe meetings
+where multiple languages are spoken in
+the same conversation without you
+needing to configure anything. The
+transcription quality is best-in-class
+and has been refined over many years. It
+works in noisy environments and when
+people are having overlapping speech.
+There are other ways to capture meetings
+as well. If you don't want the bot in
+the call, the desktop app transcribes
+and takes notes in the background. For
+in-person meetings, use our mobile app
+or start recording directly from your
+browser using the web recorder. You can
+upload pre-recorded audio and video
+files. There's also a Chrome extension
+for Google Meet if you want to record
+without a meeting bot.
+Just make sure participants know the
+meeting is being captured and follow
+your local compliance requirements.
+After a meeting ends, everything is
+automatically organized in the notebook.
+Click on the meetings tab to access the
+notebook and you can go into one of the
+recent calls. Here, you'll see detailed
+notes with an overview, summary, bullet
+point notes, metrics, and timestamps.
+There's even a dedicated action item
+section with tasks assigned to
+participants.
+You will get full transcripts with
+speaker labels and timestamps. Clicking
+anywhere on the transcript will let you
+jump to that moment of the call and
+listen to what was being said. You can
+play the audio faster, download the
+transcript, notes, video, or audio in
+multiple formats. You can also ask Fred
+questions about the meeting, like what
+were the key takeaways or when was
+pricing discussed?
+On the left, the smart search panel lets
+you filter the conversation. You can
+find tasks, dates, questions, metrics,
+pricing, and sentiment. You'll also see
+speaker talk time and how fast each
+speaker was talking, along with other
+keyword trackers. Clicking on any of
+these takes you straight to that point
+in the conversation in the transcript.
+The notebook is where all your meetings
+live. Once they're done, it's fully
+searchable and easy to navigate.
+If you want answers across more than one
+meeting, you can use ask Fred and global
+search. Instead of digging through
+recordings, you can ask questions like,
+"What objections came up this week?" or
+"What blockers are trending across
+calls?" Fred pulls answers from all of
+your meetings and shows you exactly
+where that information came from.
+Fireflies also includes a personal
+assistant mode. You'll receive a daily
+digest summarizing meetings, emails, and
+Slack messages in one place. You'll get
+meeting prep before calls and visibility
+into the main topics being discussed
+across conversations [music] in your
+workspace. If you want deeper
+automations, turn on AI skills to
+automate tasks across every department.
+For example, Fred will fill out your
+CRM, evaluate deal risk, and extract
+objections from sales calls.
+For recruiting interviews, Fred will
+score candidates and draft follow-up
+emails. You can create custom skills or
+pick from the hundreds of skills
+available in the AI employee directory.
+Fireflies has over 100 integrations.
+Sync notes to your CRM like HubSpot and
+Salesforce or push tasks to project
+management systems like Jira and Asana.
+You can even push your transcripts and
+notes to collaboration tools like Slack,
+Notion, and Google Drive. There's even a
+Zapier and an 8n integration along with
+our very own MCP. One of the newer
+products we're excited to announce is
+voice agents. Fireflies can run meetings
+on your behalf. That's right, you don't
+have to attend them. This includes
+screening interviews, discovery calls,
+check-ins, and other types of user
+interviews.
+You can set it up quickly, share a link
+to the call with anyone. The agent runs
+the call independently, and after the
+call, you'll see the transcript,
+summary, and insights just like any
+other meeting.
+We're also rolling out an email
+assistant to help you triage your inbox
+and draft emails, along with a Slack
+assistant that summarizes channels and
+lets you
+talk to Fred directly inside Slack.
+Security and privacy are core to
+Fireflies. We're SOC 2 Type 2 certified
+and compliant with GDPR, HIPAA,
+especially for doctors, and FERPA. For
+teams, Fireflies includes admin controls
+like user groups, data retention
+policies, private data storage, and
+analytics at the team and individual
+level. These features make it easy to
+roll out Fireflies securely across all
+of your organization.
+We're excited for you to get started and
+see how Fireflies can take the busy work
+off your plate. And we hope that Fred
+becomes your number one AI employee.
+AI skills run on your calls and
+
+
+automatically pull out exactly what you
+
+
+need. A follow-up email after a sales
+
+
+call, a candidate scorecard after an
+
+
+interview, a daily digest of everything
+
+
+your team discussed. In this video,
+
+
+we'll show you how to run AI skills
+
+
+based on your workflows.
+
+
+From your dashboard, click AI skills.
+
+
+You'll land on the discover tab.
+
+
+The recommended and most popular skills
+
+
+are listed at the top. Used by tens of
+
+
+thousands of teams. Use the drop-down to
+
+
+filter by category. Sales, recruiting,
+
+
+marketing, customer success, HR, and
+
+
+more.
+
+
+Click any skill to see what it does.
+
+
+Sales call, for example, organizes key
+
+
+insights from your sales conversations.
+
+
+Pain points, business needs, next steps,
+
+
+everything worth acting on after the
+
+
+call. Hit try skill and it runs on your
+
+
+last three meetings right away, so you
+
+
+can see the actual output before
+
+
+committing to it. If it looks good, hit
+
+
+enable. You can also edit to configure
+
+
+it. At the top are the instructions.
+
+
+This is what tells the skill what to
+
+
+extract from your meetings. You can edit
+
+
+it anytime to fit your needs. Under
+
+
+schedule, choose when it runs. Per
+
+
+meeting means it runs automatically
+
+
+after each call. Switch it to daily,
+
+
+weekly, or monthly, and it runs across
+
+
+all your meetings on a cadence. Useful
+
+
+for trend reports or team digests. Each
+
+
+skill uses one AI credit per meeting it
+
+
+runs on. So, a per meeting skill on five
+
+
+calls uses five credits. A weekly skill
+
+
+that summarizes 20 meetings uses 20. You
+
+
+can always check your credit usage in
+
+
+settings.
+
+
+You can set the output as text or a
+
+
+chart and control who can see the
+
+
+results.
+
+
+Under run skill on, choose which
+
+
+meetings it applies to. Select custom
+
+
+and you can filter by meeting title,
+
+
+host, participants, or meeting type. So,
+
+
+your sales call skill only runs on
+
+
+actual sales calls, not your internal
+
+
+stand-ups.
+
+
+Connect your tools in the integrate
+
+
+section and And output goes straight
+
+
+there after every meeting, into the
+
+
+right pipeline, the right stage,
+
+
+automatically.
+
+
+If you don't find a skill that fits,
+
+
+build your own. Hit create skill and
+
+
+describe what you want. The more
+
+
+specific you are, the better the output.
+
+
+Set your schedule and filters and save.
+
+
+All your enabled skills live in the
+
+
+active skills tab. Switch between my
+
+
+skills and team skills and filter by
+
+
+category, schedule, who created them, or
+
+
+who they're running for.
+
+
+And this is where everything lands, the
+
+
+feed. Every output from every skill
+
+
+shows up here. And just like active
+
+
+skills, you can filter by who created
+
+
+the skill, the schedule it runs on, and
+
+
+who it runs for. Here's a follow-up
+
+
+email drafted automatically after the
+
+
+call. Subject line, body, next steps,
+
+
+ready to send. This one runs per
+
+
+meeting, so every call gets its own
+
+
+email without you lifting a finger.
+
+
+Here's a product feedback skill running
+
+
+on a weekly schedule across all your
+
+
+customer calls. Feature requests, bug
+
+
+reports, recurring themes, all
+
+
+consolidated in one place. Next is a
+
+
+candidate scorecard. Each candidate
+
+
+scored across multiple parameters with a
+
+
+final verdict.
+
+
+That's AI skills, automations you can
+
+
+turn on in seconds or build exactly to
+
+
+your needs.
+Your meeting notes are most valuable
+
+
+when they flow directly into the tools
+
+
+your team already uses. Fireflies offers
+
+
+over 100 integrations, so your
+
+
+conversations automatically sync with
+
+
+your workflows. From your dashboard,
+
+
+click integrations on the left sidebar.
+
+
+This is where all your integrations
+
+
+live, organized by category. Let's walk
+
+
+through what's available.
+
+
+For CRMs, we have 25 options from
+
+
+classics like HubSpot, Salesforce, and
+
+
+Pipedrive to platforms like Adeo,
+
+
+Intercom, and Microsoft Dynamics 365.
+
+
+Your sales team can have meeting notes
+
+
+automatically sync to contact and
+
+
+company records without manual copy.
+
+
+For recruiting, we integrate with ATS
+
+
+platforms like BambooHR, Greenhouse, and
+
+
+Lever. Interview notes and candidate
+
+
+feedback flow directly into candidate
+
+
+records, so your hiring team stays
+
+
+aligned without extra admin work.
+
+
+For project management, we support about
+
+
+15 tools including ClickUp, Asana,
+
+
+monday.com, Jira, Trello, Todoist, etc.
+
+
+Action items from meetings can
+
+
+automatically become tasks in your
+
+
+project management system. If your team
+
+
+lives in Microsoft, we connect directly
+
+
+with six Microsoft tools including
+
+
+Dynamics 365, Teams, Planner, OneNote,
+
+
+and SharePoint. If you're a Google
+
+
+Workspace team, we integrate with Google
+
+
+Docs, Sheets, and Drive. We also support
+
+
+collaboration tools like Slack and
+
+
+WhatsApp, dialers like Aircall and
+
+
+OpenPhone, and storage platforms like
+
+
+Dropbox and Amazon S3. There's even
+
+
+Notion for teams that organize
+
+
+everything there. And if you need deeper
+
+
+customization, we have automation
+
+
+platforms like Zapier, make.com, and
+
+
+n8n. Plus, our Fireflies API is free to
+
+
+use for custom integrations. Setting up
+
+
+an integration is straightforward. Let's
+
+
+use HubSpot as an example. Click on the
+
+
+integration, hit connect, and you'll go
+
+
+through simple authorization steps. Once
+
+
+connected, you can configure it based on
+
+
+your workflow. Here's something
+
+
+powerful.
+
+
+You can use filters to control exactly
+
+
+which meetings sync by meeting title,
+
+
+host, participants, etc. Maybe only
+
+
+customer-facing calls go to your CRM,
+
+
+while internal meetings stay in
+
+
+Fireflies. This keeps your tools clean
+
+
+and relevant. We also have Fireflies
+
+
+Deer Intelligence for HubSpot that
+
+
+beings together your meeting and HubSpot
+
+
+data in a single view. More on that
+
+
+later. Moving on, if you're a team
+
+
+admin, you can click on the three dots
+
+
+here and set up integrations for your
+
+
+entire workspace and even restrict
+
+
+non-admins from creating certain
+
+
+integrations to maintain control.
+
+
+You can also connect AI skills to
+
+
+customize what content gets pushed to
+
+
+each integration. We'll dive deeper into
+
+
+AI skills in the next video, where
+
+
+you'll see how to create custom outputs
+
+
+for different workflows. These
+
+
+integrations ensure that your meeting
+
+
+insights don't stay trapped in
+
+
+Fireflies.
+When you're in a meeting, Fireflies
+
+
+gives you real-time assistance as the
+
+
+conversation happens. Live notes,
+
+
+answers, suggestions, and coaching. In
+
+
+this video, we'll walk through how to
+
+
+access and use Fireflies live during
+
+
+your meetings, whether you're on the
+
+
+desktop app, the web app, or mobile. How
+
+
+you access the live panel depends on how
+
+
+you're using Fireflies. If you're on the
+
+
+desktop app, Fireflies detects your
+
+
+meeting automatically and sends a
+
+
+notification. Just click invite note
+
+
+taker or record, and the live assist
+
+
+panel opens on your screen. If you're
+
+
+joining from the web app, mobile, or
+
+
+directly from your meeting platform,
+
+
+Zoom, Google Meet, Teams, or any
+
+
+supported platform, just invite the
+
+
+Fireflies note taker to your call. It
+
+
+will post a link in the meeting chat.
+
+
+Click that link to open the live assist
+
+
+panel. You can also open it from a
+
+
+notification on the Fireflies web app
+
+
+while the meeting is live. One thing to
+
+
+note, on desktop, you have the option to
+
+
+record using device audio without the
+
+
+bot. Sales assist and a few other
+
+
+features require the note taker bot to
+
+
+be in the call, regardless of platform.
+
+
+Once you're in, you'll see the live
+
+
+assist panel. At the top are three tabs:
+
+
+live assist, ask Fred, and notes, plus a
+
+
+three-dot menu on the right. On the live
+
+
+assist tab, general assist gives you
+
+
+four quick actions. Suggest questions,
+
+
+catch up, last one minute, summarize so
+
+
+far, and action items. On the right,
+
+
+transcript shows everything in real time
+
+
+with speaker labels and timestamps. AI
+
+
+notes captures key points automatically.
+
+
+Prep shows any context prepared in
+
+
+advance. On desktop, you can move the
+
+
+panel anywhere on screen, collapse it to
+
+
+the recording timer, and it stays hidden
+
+
+when you share your screen. Beyond the
+
+
+quick actions, you also have ask Fred
+
+
+available right inside the panel. Click
+
+
+ask Fred to open the live assistant. Ask
+
+
+anything about the current meeting,
+
+
+what's been discussed, suggested
+
+
+follow-up questions, or a quick catch-up
+
+
+on the last minute. You can also ask
+
+
+about past meetings, your knowledge
+
+
+base, or the web, right from the same
+
+
+panel. To run a specific AI skill
+
+
+mid-meeting, type {slash} and select
+
+
+from the list. If you're in a
+
+
+customer-facing role, sales, solutions,
+
+
+support, Fireflies has a dedicated mode
+
+
+built for you. It's called Sales Assist,
+
+
+and it gives you live, real-time
+
+
+suggestions pulled directly from your
+
+
+company knowledge base, right as the
+
+
+conversation is happening.
+
+
+>> How many languages do you support?
+
+
+It detects the question, and then it
+
+
+gave the answer, 160 languages is
+
+
+supported. Here's how to set it up
+
+
+before your next call. Open your
+
+
+Fireflies dashboard, go to settings, and
+
+
+open the knowledge base tab. This is
+
+
+where Sales Assist gets its intelligence
+
+
+from, your product information, FAQs,
+
+
+help articles, or internal playbooks. By
+
+
+default, you'll see a sales template
+
+
+knowledge base already created for you.
+
+
+Click upload file and add your sales
+
+
+materials. Sales Assist supports PDFs,
+
+
+docs, Excel, and HTML files. You can
+
+
+also paste a website link, and Fireflies
+
+
+will crawl it automatically, making it
+
+
+useful for help centers, support pages,
+
+
+or feature documentation. Once uploaded,
+
+
+click save. Your files will be listed
+
+
+under the active knowledge base. If you
+
+
+need more than one, click create new,
+
+
+give it a name, and upload your files or
+
+
+URLs. You can maintain multiple
+
+
+knowledge bases. For example, one for
+
+
+product demos, and another for
+
+
+enterprise FAQs. Once your knowledge
+
+
+base is ready, go back to your live
+
+
+assist panel. Look at the drop-down in
+
+
+the top left corner. By default, it
+
+
+opens in General Assist mode. Select
+
+
+Sales Assist. If you have multiple
+
+
+knowledge bases, click edit beside the
+
+
+knowledge base field, select the one you
+
+
+want, and hit save. As your customer or
+
+
+prospect asks a question, Sales Assist
+
+
+instantly analyzes what was said,
+
+
+searches your uploaded content, and
+
+
+surfaces the most relevant answer right
+
+
+there in the panel. If an answer isn't
+
+
+found, you'll be prompted to try Ask
+
+
+Fred instead, where you can search
+
+
+across past meetings or the web. You'll
+
+
+also get real-time nudges if you've been
+
+
+speaking too long, too fast, or too
+
+
+slow. When the call ends, Fireflies
+
+
+processes everything automatically. Your
+
+
+summary streams in and is ready to
+
+
+review, share, or send.
+
+
+That's how you use Fireflies live on
+
+
+desktop, web, or mobile. Upload your
+
+
+materials, start a meeting, and let
+
+
+Fireflies handle the rest.
+In this video, we'll show you how to
+
+
+find a meeting in Fireflies, review
+
+
+summaries and action items, and
+
+
+collaborate with your team. From your
+
+
+Fireflies dashboard, head to meetings on
+
+
+the left. This is the home for all your
+
+
+recorded conversations. Here, you'll see
+
+
+different views like my meetings, the
+
+
+meetings you were part of, all meetings
+
+
+shared with you or your team, meetings
+
+
+specifically shared with you, voice
+
+
+agent meetings, the calls run by
+
+
+Fireflies. You can search by meeting
+
+
+title or keyword, and filter by
+
+
+participant, date range, or duration to
+
+
+quickly find what you're looking for.
+
+
+Click into any meeting to open it. When
+
+
+a meeting opens, everything is organized
+
+
+into a few clear areas. On the right,
+
+
+you'll see the transcript and ask Fred.
+
+
+In the main panel, you'll see the
+
+
+recording, summary, notes, and action
+
+
+items. On the left, you'll find multiple
+
+
+insights to explore the meeting in more
+
+
+detail. Let's walk through each.
+
+
+On the right-hand side is the
+
+
+transcript. You'll see speaker names,
+
+
+timestamps, and the full conversation.
+
+
+If someone left a comment, you'll see a
+
+
+comment bubble in the transcript.
+
+
+Clicking it shows who commented and what
+
+
+they said. You can search the
+
+
+transcript, make quick edits, or jump to
+
+
+any moment by clicking a line. Next to
+
+
+the transcript is ask Fred. You can ask
+
+
+questions about this meeting or anything
+
+
+from the web. You can use the suggested
+
+
+prompts or type your own question. In
+
+
+the main panel, you'll see the meeting
+
+
+summary at the top. This highlights key
+
+
+points from the meeting. Each item is
+
+
+timestamped, so clicking it takes you
+
+
+directly to that moment in the meeting.
+
+
+Below that, you'll see detailed notes,
+
+
+followed by action items. Action items
+
+
+are automatically captured, assigned to
+
+
+owners when mentioned, and linked back
+
+
+to where they came up in the
+
+
+conversation. You can expand, edit, or
+
+
+jump straight to the discussion. You can
+
+
+also edit the summary directly if you
+
+
+want to add context make changes and
+
+
+easily copy the entire summary to share
+
+
+it wherever you need. By default,
+
+
+Fireflies generates a general summary,
+
+
+but you're not limited to that. You can
+
+
+switch between different summary
+
+
+templates based on your role or use AI
+
+
+apps to generate customized summaries
+
+
+like band, candidate feedback, or other
+
+
+role-based summaries. If you don't find
+
+
+what you need, you can also create a
+
+
+custom AI app. We'll cover AI apps in
+
+
+more detail in a later video. At the
+
+
+bottom of the screen, you can play the
+
+
+recording, skip forward, or backward and
+
+
+adjust playback speed. You can also
+
+
+download the meeting including the
+
+
+transcript, summary, video, or audio in
+
+
+the format you need. At the top, you can
+
+
+rename the meeting, regenerate notes, or
+
+
+update the meeting language if needed.
+
+
+On the left-hand side, you'll find smart
+
+
+search. This lets you explore the
+
+
+meeting by topics and keywords,
+
+
+sentiment, speaker talk time, questions,
+
+
+and metrics.
+
+
+You'll also see sections for notes,
+
+
+action items, and popular topics all
+
+
+pulled directly from the conversation.
+
+
+Sound bites let you turn key moments
+
+
+into short shareable clips.
+
+
+You can create a sound bite by selecting
+
+
+part of the transcript or let Fireflies
+
+
+suggest sound bites automatically. These
+
+
+are great for sharing highlights without
+
+
+sending the full meeting. You'll also
+
+
+see all comments here making it easy to
+
+
+track feedback and discussions around
+
+
+the meeting. In the top right corner,
+
+
+you'll find the sharing options for this
+
+
+meeting. From here, you can copy the
+
+
+meeting link or click share.
+
+
+Here, you can share by name, email, or
+
+
+user groups and also share the meeting
+
+
+to connected tools like Slack. Sharing
+
+
+follows your default privacy settings,
+
+
+which was set during onboarding. These
+
+
+defaults control who can view or access
+
+
+meeting notes. If you need to change
+
+
+access for this specific meeting, you
+
+
+can do that right here. You'll also see
+
+
+viewer activity, showing who has viewed
+
+
+the meeting notes and when. This gives
+
+
+you full control and visibility over how
+
+
+meetings are shared. And that's a wrap.
+
+
+That's how you review, search, and share
+
+
+meeting notes in Fireflies.
+Fireflies meeting settings. Learn how to
+
+
+control when Fireflies joins meetings,
+
+
+who receives recaps, and how language
+
+
+detection works. Now that Fireflies is
+
+
+set up, let's take a look at the basic
+
+
+calendar and meeting settings. To
+
+
+access, open the side panel on the
+
+
+dashboard. Here, you'll see calendar
+
+
+meeting settings. This is where you can
+
+
+quickly manage how Fireflies joins and
+
+
+capture meetings. When you click this,
+
+
+it opens a settings view where you can
+
+
+control four key things. First is
+
+
+auto-join settings. You can choose to
+
+
+have Fireflies join all meetings with a
+
+
+web conferencing link like Zoom, Google
+
+
+Meet, or Teams, or narrow it down to
+
+
+only meetings you own, or meetings with
+
+
+specific participants. Next are recap
+
+
+settings. You can send the email recap
+
+
+to everyone on the invite, only
+
+
+yourself, or only specific participants.
+
+
+This is what the participants get as an
+
+
+email after the meeting. Both of these
+
+
+settings reflect what you chose during
+
+
+onboarding, but you can update them here
+
+
+anytime.
+
+
+Right below that, you'll see privacy
+
+
+settings. This controls who can view the
+
+
+full meeting notes inside Fireflies.
+
+
+It's important to understand the
+
+
+difference here. Email recaps decide who
+
+
+gets notified by email, while privacy
+
+
+settings decide who can actually open
+
+
+and view the meeting notes. By default,
+
+
+meeting notes are visible to teammates
+
+
+and anyone with the link. You can change
+
+
+this to make a meeting visible only to
+
+
+teammates, only meeting participants,
+
+
+only participants from your team, or
+
+
+just yourself. And finally, you'll see
+
+
+meeting language. Fireflies supports
+
+
+over 100 languages, and you can keep
+
+
+this set to auto-detect or choose a
+
+
+specific language for transcription and
+
+
+summaries. You can also access these
+
+
+settings from the main settings tab.
+
+
+Here, you can also set the privacy for
+
+
+your meetings. You can choose who can
+
+
+view the detailed meeting notes in your
+
+
+Fireflies workplace or externally.
+
+
+Ensure this is set as per your privacy
+
+
+preference. And if you are a team admin,
+
+
+you can set default settings for your
+
+
+team on the team settings page. More on
+
+
+that in the upcoming videos. In the next
+
+
+video, we'll walk through all the
+
+
+different ways you can record meetings
+
+
+with Fireflies.
+Your recording and privacy settings
+
+
+control everything. When Fireflies
+
+
+records, what it saves, and who can see
+
+
+your meeting notes. Let's walk through
+
+
+it together. To get to your settings,
+
+
+click settings in the left-hand sidebar.
+
+
+You'll land on the personal tab by
+
+
+default. And if you're a workspace
+
+
+admin, you'll also see a team tab up
+
+
+top. We'll cover that in a separate
+
+
+video. Let's start with recording and
+
+
+privacy. Once you click on it, the first
+
+
+thing you'll see is auto record
+
+
+meetings. If this is switched on,
+
+
+Fireflies will automatically join and
+
+
+record all your calendar meetings as
+
+
+long as it has a web conferencing link
+
+
+to join. You don't have to do anything.
+
+
+You can control exactly which meetings
+
+
+it joins using the drop-down below. You
+
+
+can set it to record all your meetings,
+
+
+only meetings you host, just internal
+
+
+meetings, just external ones, or only
+
+
+meetings with specific teammates. And if
+
+
+you toggle it off completely, you'll
+
+
+need to invite Fireflies manually each
+
+
+time. Next, recording format lets you
+
+
+choose what Fireflies actually keeps
+
+
+from each meeting. By default, it saves
+
+
+everything, audio, transcript, and
+
+
+summary. But you can limit it depending
+
+
+on what you need from the drop-down.
+
+
+This option is available on business and
+
+
+enterprise plans. Right below that,
+
+
+record meeting video option controls
+
+
+whether Fireflies captures your video
+
+
+during the meeting. You can toggle this
+
+
+on or off. Again, this is a business and
+
+
+enterprise feature. Meeting language is
+
+
+where you set the language for your
+
+
+transcripts and summaries. Fireflies
+
+
+supports over 100 languages. And then,
+
+
+you have auto delete meetings. Toggle
+
+
+this on if you want recordings to be
+
+
+automatically deleted after a set
+
+
+period. You can choose from options like
+
+
+1 week, 2 weeks, or 1 month. This one is
+
+
+enterprise only, and it's particularly
+
+
+useful for data retention compliance.
+
+
+Now, let's scroll down to privacy and
+
+
+access. This is where you decide who
+
+
+inside Fireflies can view your meeting
+
+
+notes. By default, it's set to teammates
+
+
+and anyone with a link, which means
+
+
+anyone on your Fireflies workspace or
+
+
+anyone who has a link can access your
+
+
+meetings. If that feels too open, you
+
+
+can restrict it to just yourself or a
+
+
+smaller group from the drop-down. Choose
+
+
+this setting carefully based on your
+
+
+preference. If you're on business or
+
+
+enterprise, you'll also see public
+
+
+meeting access. Turn this on and anyone
+
+
+you share a meeting link with can open
+
+
+the notes without needing a Fireflies
+
+
+account at all. No paywall, no sign-up
+
+
+prompt. Really useful when you're
+
+
+sharing notes with clients or external
+
+
+stakeholders. There's also auto request
+
+
+access. When this is on, if you attend a
+
+
+meeting that's been set to private,
+
+
+Fireflies will automatically request
+
+
+access on your behalf. It's switched off
+
+
+by default. Moving down to meeting recap
+
+
+email, this controls who gets an email
+
+
+after each meeting is processed. You can
+
+
+send it to everyone on the invite, just
+
+
+yourself, or turn it off entirely.
+
+
+There's also a second drop-down for what
+
+
+to include, just an overview or the full
+
+
+notes.
+
+
+One thing to keep in mind, even if
+
+
+someone receives the recap email, they
+
+
+can only access the full meeting notes
+
+
+based on your privacy settings. And just
+
+
+below that, there is meeting prep email.
+
+
+Fireflies can send a preparation email 1
+
+
+hour before a recurring meeting with
+
+
+context pulled from past interactions
+
+
+with those same people. You can send it
+
+
+to all participants, just yourself, or
+
+
+switch it off. Beyond your general
+
+
+recording preferences, recording rules
+
+
+let you get specific about exactly which
+
+
+meetings Fireflies should and should not
+
+
+record. There are two parts here.
+
+
+Recording rules is for meetings you
+
+
+always want captured. Click edit and
+
+
+you'll see two fields. The first is
+
+
+title keywords. So, if you type sales
+
+
+demo, Fireflies will automatically
+
+
+record every meeting that has those
+
+
+words in the title. The second field is
+
+
+for email addresses or domains. So, if
+
+
+you add tesla.com, any meeting with a
+
+
+participant from that domain gets
+
+
+recorded automatically. You can even get
+
+
+specific and add an individual email
+
+
+like jane@tesla.com
+
+
+if needed. And you can add as many
+
+
+keywords and domains as you want. They
+
+
+all work together. Restriction rules
+
+
+work the opposite way. These are
+
+
+meetings you never want recorded. Click
+
+
+edit and add your keywords or domains
+
+
+here.
+
+
+For example, type one-to-one and any
+
+
+meeting with that in the title will be
+
+
+skipped automatically. You could also
+
+
+add a personal email domain if there are
+
+
+certain people you never want recorded.
+
+
+Hit save and your rules go live
+
+
+immediately.
+
+
+That's all about recording and privacy.
+
+
+In the next video, we will look at other
+
+
+settings available to you.
+Now that your recording and privacy
+settings are in place, let's walk
+through the rest of your personal
+settings starting with compliance
+notification. Click settings in the
+left-hand sidebar and select compliance
+notification from the left menu. The
+first option here, notify participants
+via email, sends an automatic email to
+everyone on the meeting invite 1 hour
+before the call letting them know
+Fireflies will be recording. You can
+choose to enable or disable it. You can
+also edit the email message directly to
+match your company's tone or add any
+specific legal language you need. Below
+that, meeting chat notification
+automatically drops a message in the
+meeting chat the moment Fireflies joins
+so everyone in the room can see in real
+time that the meeting is being recorded.
+This message is set by default at the
+beginning of every meeting. And then
+there's meeting end notification that
+sends a chat alert when your meeting is
+approaching its recording time limit so
+you're never caught off guard
+mid-conversation. Now let's quickly walk
+through the rest of your personal
+settings. AI settings is where you
+control who can access your AI skills,
+just you or specific participants or
+team members. You'll also find topic
+tracker here where you can add keywords
+that Fireflies will automatically
+highlight across all your meetings.
+Great if you always want to track things
+like competitor mentions or specific
+product names. And there's custom
+vocabulary where you can add names,
+acronyms, or internal terms so Fireflies
+transcribes them correctly every time.
+Live meeting settings control what
+happens while a meeting is in progress.
+You have an option to share live meeting
+notes with participants through the
+meeting chat or via email. And if you
+want to control how Fireflies interacts
+with you live during the meeting, the
+talk to Fireflies section lets you
+configure options to chat with it,
+trigger it by voice, and even have it
+respond back in audio. Knowledge base is
+where you store company information,
+things like company and product details
+or playbooks that Fireflies uses to
+power live meeting assist and voice
+agents. Next is developer settings where
+you'll find your API key and webhook
+options if you're building custom
+integrations. And cookies and analytics
+lets you manage your data and analytics
+preferences. At the bottom of the left,
+you'll also find AI credits, billing,
+and account, so you can track your
+usage, manage your plan, and update your
+account details whenever you need to.
+That's a full picture of your personal
+settings. If you're an admin setting up
+Fireflies for your whole team, the next
+video is for you.
+In this video, we'll show you how to
+
+
+invite teammates to your Fireflies
+
+
+workspace. You can invite your teammates
+
+
+using a link, by email, through Slack or
+
+
+Microsoft Teams, or automatically from
+
+
+your company domain. Let's dive in. Go
+
+
+to the team tab in the left sidebar and
+
+
+click invite teammates.
+
+
+The quickest way to invite multiple
+
+
+people is with a shareable link.
+
+
+In the invite window, click invite link.
+
+
+You can paste this link into Slack,
+
+
+Teams, or email.
+
+
+Anyone who opens it can click accept
+
+
+invitation and instantly join your
+
+
+workspace. This is ideal for onboarding
+
+
+larger groups quickly. If you want to
+
+
+invite specific teammates, enter their
+
+
+email addresses directly.
+
+
+Type one or more emails separated with
+
+
+commas and click send invite.
+
+
+They'll receive an email from
+
+
+fred@fireflies.ai,
+
+
+click join now, then accept invitation,
+
+
+and they're added to your workspace. You
+
+
+can also invite teammates directly from
+
+
+Slack or Microsoft Teams. Click the
+
+
+Slack or Microsoft Teams icon inside the
+
+
+invite window. You'll be prompted to
+
+
+authorize the workspace through OAuth.
+
+
+Once connected, you'll see a list of
+
+
+teammates from that workspace. Select
+
+
+individuals or choose select all and
+
+
+click send invite.
+
+
+They'll receive an email from Fireflies
+
+
+to complete the process.
+
+
+If your teammates use the same company
+
+
+email domain, Fireflies automatically
+
+
+suggests them under recommended people
+
+
+for you. You can expand the list and
+
+
+invite individuals or click invite all.
+
+
+If you're an admin, you can also enable
+
+
+automatic domain addition.
+
+
+When turned on, anyone who signs up with
+
+
+your company domain will automatically
+
+
+join your workspace.
+
+
+This works for business domains, not
+
+
+personal ones like Gmail or Outlook.
+
+
+Each teammate added to your workspace
+
+
+counts as one billable seat under your
+
+
+subscription. Admins can manage
+
+
+teammates anytime from the team members
+
+
+tab, including updating roles, removing
+
+
+users, or re-inviting.
+
+
+Lastly, as an admin, you can restrict
+
+
+your team members to invite new members.
+
+
+Just go to team settings. You will see
+
+
+an option to toggle this option off.
+
+
+And that's how you invite teammates to
+
+
+your Fireflies workspace, whether you're
+
+
+adding one person or your entire
+
+
+organization.
+How to record meetings with Fireflies.
+
+
+Fireflies joins meetings based on the
+
+
+auto join preference you set during
+
+
+onboarding, whether [music] that's all
+
+
+meetings with a web conferencing link
+
+
+like Google Meet, Zoom, or Microsoft
+
+
+Teams, [music] or only when you manually
+
+
+invite it. You can always update this
+
+
+[music] in your meeting settings. Once
+
+
+you're using manual invites, there are a
+
+
+few easy ways to start recording. First,
+
+
+[music] from the dashboard, go to the
+
+
+top right corner and open the capture
+
+
+drop down. [music]
+
+
+From here, click add to live meeting.
+
+
+You can enter a meeting name,
+
+
+>> [music]
+
+
+>> paste the meeting link, choose the
+
+
+meeting language, and click start
+
+
+capturing. Fireflies will join the
+
+
+meeting in less than a minute. Another
+
+
+option is to invite [music] Fireflies
+
+
+directly through your calendar. You can
+
+
+create a meeting in Google Calendar or
+
+
+Outlook and add [music] the invite.
+
+
+Fireflies
+
+
+will join the meeting like any other
+
+
+participant.
+
+
+From the same [music]
+
+
+capture drop down, you'll also see
+
+
+options to start recording right away.
+
+
+Add a meeting title. If you click start
+
+
+recording or use the microphone icon,
+
+
+Fireflies will start the web recorder,
+
+
+which [music] works well for in-person
+
+
+meetings. For in-person meetings on the
+
+
+go, you can also use the mobile app.
+
+
+Just open the recorder and start
+
+
+recording.
+
+
+If you already have recordings, you can
+
+
+upload them as well. From the capture
+
+
+menu, choose upload audio or video, and
+
+
+Fireflies will process it just like a
+
+
+regular meeting. You can also control
+
+
+recordings directly [music] from the
+
+
+dashboard. On the right-hand side, you
+
+
+can toggle which upcoming meetings
+
+
+[music]
+
+
+Fireflies should join without opening
+
+
+any menus.
+
+
+For botless recording, you can use the
+
+
+desktop [music] app or Chrome extension.
+
+
+Once installed, they record meetings
+
+
+without adding [music] a bot to the
+
+
+call. All recorded meetings show up in
+
+
+your meetings tab once they're
+
+
+processed. If you want to check the
+
+
+status of a meeting, you can use meeting
+
+
+[music] status from the left-hand
+
+
+navigation. Here, you'll see whether a
+
+
+meeting [music] is processed, completed,
+
+
+or if there were any issues like
+
+
+connection failures.
+
+
+>> [music]
+
+
+>> That's it. No matter how you record,
+
+
+Fireflies captures the conversation
+
+
+>> [music]
+
+
+>> and organizes everything in one place.
+Get started with Fireflies in minutes.
+
+
+Sign up, connect your calendar, and
+
+
+learn your way around the Fireflies
+
+
+dashboard. Getting started with
+
+
+Fireflies is quick. When you sign up for
+
+
+Fireflies, you'll see the option to
+
+
+continue with Google or with Microsoft.
+
+
+If you want Fireflies to join meetings
+
+
+on your Google Calendar, continue with
+
+
+Google. If your meetings live on Outlook
+
+
+or Microsoft Calendar, continue with
+
+
+Microsoft. Once you select an option,
+
+
+choose the email account you want to
+
+
+connect and approve the permissions.
+
+
+This allows Fireflies to access your
+
+
+calendar and join your meetings
+
+
+automatically. After that, you'll be
+
+
+guided through a short onboarding flow.
+
+
+You'll be asked a few questions about
+
+
+how you plan to use Fireflies, like your
+
+
+role, your team, and what you want help
+
+
+with. This helps Fireflies personalize
+
+
+your experience. You can always change
+
+
+these settings later. Once you're
+
+
+connected, you'll land on your Fireflies
+
+
+dashboard. This is your home base. On
+
+
+the left, you'll see the main
+
+
+navigation, where you can access
+
+
+meetings, integrations, settings, and
+
+
+more. We'll go deeper into these
+
+
+sections in upcoming videos. If you're
+
+
+new to Fireflies, you'll also see some
+
+
+recommendations on the dashboard. These
+
+
+are suggestions based on your role, like
+
+
+which integrations to connect or which
+
+
+automations and AI skills might be
+
+
+helpful. On the right, once you open
+
+
+this panel, you'll see your upcoming
+
+
+meetings, quick access to some meeting
+
+
+settings, and language right here.
+
+
+Here's your personal assistant. It will
+
+
+generate a daily digest, highlight
+
+
+important topics discussed, and provide
+
+
+meeting prep based on all your meetings.
+
+
+In the top right corner, you'll also see
+
+
+your notifications. Right next to that
+
+
+is your profile menu, where you can
+
+
+manage your account and profile
+
+
+settings. And if you ever need help, you
+
+
+can always reach out through the support
+
+
+option here to start a chat with our
+
+
+team. Now that your calendar is
+
+
+connected and you know where everything
+
+
+lives, you're ready to start using
+
+
+Fireflies in your meetings.
+Want to automate screening interviews,
+
+
+sales discovery calls, or customer
+
+
+support conversations?
+
+
+Fireflies voice agents handle real
+
+
+conversations for you. Note that this
+
+
+feature is available only on paid plans.
+
+
+From your dashboard, click voice agents
+
+
+on the left sidebar. [music]
+
+
+You'll see a range of pre-built
+
+
+templates for different use cases.
+
+
+Explore them to see how voice agents can
+
+
+work for you. Screening interview agents
+
+
+for HR, discovery call agents for sales,
+
+
+customer support agents, user research
+
+
+agents, et cetera. You can use these
+
+
+templates or click the custom agent
+
+
+button to create your own from scratch.
+
+
+Let's walk through setting one up. We'll
+
+
+use the screening interview agent as an
+
+
+example.
+
+
+For screening interviews specifically,
+
+
+we have one-click setup. [music] Just
+
+
+select the role you're hiring for from
+
+
+the drop-down and it auto-fills the
+
+
+questions automatically. We'll have the
+
+
+support for other agent types soon.
+
+
+[music]
+
+
+Now you'll see the setup interface with
+
+
+questions, knowledge, and instructions
+
+
+already pre-filled based on the role you
+
+
+selected. You can use these as is or
+
+
+tweak them to match your specific needs.
+
+
+Below that, you'll see the knowledge and
+
+
+instructions for your agent. [music]
+
+
+Under the knowledge section, you can
+
+
+either type directly in the text box or
+
+
+click add knowledge base for a more
+
+
+comprehensive knowledge base. If you
+
+
+click add knowledge base, you'll see any
+
+
+pre-existing knowledge bases you've
+
+
+created or you can click new base right
+
+
+here.
+
+
+Alternatively, you can access knowledge
+
+
+bases from your settings page as well.
+
+
+>> [music]
+
+
+>> In the knowledge base creation screen,
+
+
+you can upload or drag files in various
+
+
+supported formats. Just drag and drop
+
+
+[music] or browse for files. You can
+
+
+also add any URL and there's an option
+
+
+to include subpages from that URL.
+
+
+Once you've added everything, click
+
+
+create. [music]
+
+
+Back in your agent setup, you can select
+
+
+one knowledge base or multiple knowledge
+
+
+bases. This becomes your agent's brain.
+
+
+>> [music]
+
+
+>> Any question asked by the candidate,
+
+
+customer, or participant, as long as
+
+
+it's covered in your knowledge base, the
+
+
+voice agent will be able to answer it
+
+
+accurately.
+
+
+Before finalizing, click on the settings
+
+
+tab next to the setup tab. Here, you can
+
+
+control important configurations. Under
+
+
+visibility, you can toggle whether to
+
+
+allow members of your workspace to
+
+
+discover and edit this voice agent.
+
+
+Under meeting privacy, choose who can
+
+
+view meeting notes and transcripts using
+
+
+the drop-down.
+
+
+For send recap email,
+
+
+>> [music]
+
+
+>> choose who receives the session recap
+
+
+email from the drop-down. Under
+
+
+participant info required before talking
+
+
+to the agent, check the boxes for what
+
+
+information you want to collect. You can
+
+
+require name, email, or both. Note that
+
+
+if email is selected, [music]
+
+
+users will need to verify with an OTP
+
+
+before joining. Next, on the right side,
+
+
+you'll see a preview panel. You can
+
+
+change the name of your agent at the
+
+
+top, customize the voice from the
+
+
+drop-down, select the language we
+
+
+support over 30 languages, and set the
+
+
+session duration anywhere from 5 to 40
+
+
+minutes. You even have an option to
+
+
+clone your voice. Just speak for 30
+
+
+seconds and you're done. Click preview
+
+
+to test how it sounds.
+
+
+>> Hello there. [music] I'm your voice
+
+
+agent from Fireflies. How can I help
+
+
+you?
+
+
+>> Note that running voice agent calls uses
+
+
+two credits per minute. [music]
+
+
+Once you're happy with everything, click
+
+
+create agent at the bottom. After
+
+
+creating, you can try it yourself first
+
+
+by clicking the agent link,
+
+
+>> [music]
+
+
+>> or click copy link to share it with
+
+
+participants. When participants click
+
+
+the link, [music] they'll be asked to
+
+
+enter their name and email, then they'll
+
+
+receive an OTP to verify.
+
+
+Once they enter the OTP, they can start
+
+
+talking to the agent immediately.
+
+
+[music]
+
+
+>> Hi Austin, thanks for joining. How are
+
+
+you doing today?
+
+
+>> Yeah, I'm fine.
+
+
+>> Glad to hear that. This will be a
+
+
+structured conversation where I'll ask a
+
+
+few questions to understand your
+
+
+experience and fit for the role.
+
+
+>> [music]
+
+
+>> There's no rush.
+
+
+>> To manage all your voice agents, click
+
+
+my voice agents at the top of the voice
+
+
+agents page. Here you'll see all the
+
+
+voice agents in your workspace [music]
+
+
+and which ones are active. You can
+
+
+simply toggle the switch to deactivate
+
+
+any agent. Click the copy icon to share
+
+
+the link. Click the three dots icon
+
+
+[music] to edit, clone it to create a
+
+
+duplicate, or click the delete tab to
+
+
+delete it. You can also see how many
+
+
+calls each agent has conducted by simply
+
+
+hovering over the agent. All voice agent
+
+
+calls get recorded and appear in your
+
+
+meetings tab.
+
+
+>> [music]
+
+
+>> Click meetings on the left navigation
+
+
+bar, and you'll see voice agent meetings
+
+
+marked with a robot icon. These appear
+
+
+in your all meetings view as well.
+
+
+Click on any voice agent meeting to see
+
+
+a full summary, transcript, [music] and
+
+
+recording just like regular meetings.
+
+
+If you used a template like screening
+
+
+interview agent, the meeting will
+
+
+automatically use a hiring style summary
+
+
+designed for interviews. So, you already
+
+
+get structured notes aligned to the type
+
+
+of call you ran. But, if you want deeper
+
+
+or more specific [music] insights, you
+
+
+can go a step further with AI skills.
+
+
+You can run it on an existing voice
+
+
+agent call. Just enable [music] the
+
+
+skill and apply it to that meeting. Or
+
+
+second, you can configure the AI skill
+
+
+to run automatically on all future
+
+
+calls. Click on AI skills in the left
+
+
+sidebar, then go to the recruiting tab
+
+
+if you're using screening interview
+
+
+agents. You can set up skills like
+
+
+candidate [music] feedback, candidate
+
+
+scorecard, candidate questions, or
+
+
+candidate sentiment. Let's click on
+
+
+candidate feedback [music] to configure
+
+
+it, for example. Set it to run only on
+
+
+meetings where the title contains
+
+
+screening interview. Make sure your
+
+
+voice agent sessions use this exact
+
+
+title. [music] Click save, then create
+
+
+skill. Now, this candidate feedback
+
+
+skill will automatically run on all
+
+
+interviews with that title and appear in
+
+
+your meeting notes.
+
+
+This way, every new voice agent
+
+
+interview automatically generates
+
+
+structured insights without any manual
+
+
+effort.
+
+
+That's how you set up, run, manage, and
+
+
+scale voice agents in Fireflies.
